@@ -1,51 +1,42 @@
 {
   "squares": [
-    { "name": "media",
+    { "name": "social",
       "color": "red",
       "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Facebook", "url": "https://www.facebook.com/" },
+        { "name": "Instagram", "url": "https://www.instagram.com/" },
+        { "name": "Strava", "url": "https://www.strava.com/" },
+        { "name": "Messenger", "url": "https://www.messenger.com/" }
       ]
     },
-    { "name": "work",
+    { "name": "news",
       "color": "#26A69A",
       "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+        { "name": "Telex", "url": "https://www.telex.hu/" },
+        { "name": "24", "url": "https://www.24.hu/" },
+        { "name": "444", "url": "https://www.444.hu/" }
       ]
     },
-    { "name": "social",
+    { "name": "etc",
       "links": [
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
-      ]
-    },
-    {
-      "name": "Others",
-      "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+        { "name": "Techeblog", "url": "https://techeblog.com" },
+        { "name": "ProHardver", "url": "https://prohardver.hu/forum/index.html" },
+        { "name": "HUP", "url": "https://hup.hu" },
+        { "name": "Reddit", "url": "https://reddit.com" }
       ]
     }
   ],
-  "title": "startpage",
-  "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "title": "chaos",
+  "searchEngine":"Google",
+  "user": "Gyuri",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": false,
-  "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "disableWeather": false,
+  "timeZone": "Europe/Budapest",
   "weatherConf": {
-    "location": "Pune India",
+    "location": "Budakeszi",
     "unit": "cel"
   },
   "settingsIcon": false,
