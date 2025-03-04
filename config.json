@@ -1,7 +1,7 @@
 {
   "squares": [
     { "name": "social",
-      "color": "red",
+      "color": "#cc241d",
       "links": [
         { "name": "Facebook", "url": "https://www.facebook.com/" },
         { "name": "Instagram", "url": "https://www.instagram.com/" },
@@ -10,7 +10,7 @@
       ]
     },
     { "name": "news",
-      "color": "#26A69A",
+      "color": "#98971a",
       "links": [
         { "name": "Telex", "url": "https://www.telex.hu/" },
         { "name": "24", "url": "https://www.24.hu/" },
@@ -18,6 +18,7 @@
       ]
     },
     { "name": "etc",
+      "color": "#d79921",
       "links": [
         { "name": "Techeblog", "url": "https://techeblog.com" },
         { "name": "ProHardver", "url": "https://prohardver.hu/forum/index.html" },
